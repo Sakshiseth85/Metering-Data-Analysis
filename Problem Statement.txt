@@ -1,0 +1,43 @@
+Project Discription:
+
+Data Collection and Cleaning: Gather sales data and ensure it is clean and consistent using Excel.
+Data Storage and Querying: Store the cleaned data in MS SQL Server and perform necessary queries to calculate the required metrics.
+Data Visualization: Use Tableau to create the specified charts, providing a visual representation of the sales data to facilitate easy understanding and insights.
+Expected Outcomes:
+
+A comprehensive understanding of total revenue, average order value, total meters sold, total orders, and average meters per order.
+Clear visualization of the sales distribution across meter categories.
+Identification of top and bottom performing meters based on revenue, quantity, and orders.
+Actionable insights to inform business strategies and improve sales performance.
+
+
+Problem Statement:
+
+We need to analyze key indicators for our meters sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
+
+1. Total Revenue: Sum of the total price of all meters.
+2. Average order value: Average amt. spent per order, calculated by dividing the tota; revenue by the total numbers of order.
+3. Total meters sold: The sum of the quantities of all meters sold.
+4. Total orders: The total numbers sales (count)
+5. Averge meters per order: The average no. of meters sold per order, calculated by dividing the total no. of meters sold by the total no. of orders.
+
+
+Charts Requirement: 
+
+
+6. Percentage of sales by meter category: Pie chart that shows distribution of sales across differenct meter categories. This will give the popularity of categories and their contribution to overall sales.
+
+7. Total meter sold by meter category: FUnnel chart that shows no. of meters sold for each category. Will show the performance of each meter category
+
+8. Top sellers ny revenue, total quantity, total orders: Create bar chart showing 5 best selling meters based on revenue, total quantity, total orders. 
+
+9. Bottom best sellers by revenue, total quantity, total orders.
+Bar chart showing the ottom 5 worst selling meters based on revenue, total quantity, total orders. 
+
+
+
+Software needs to be used:
+
+1. Excel
+2. MS SQl Server 
+3. Tableau
